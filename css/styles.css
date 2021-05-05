@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+td{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+
+}
+h3 {
+
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+    margin: 5% auto 5% auto;
+  }
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 6.5%;
+}
+
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud1 {
+  position: absolute;
+  right: 23%;
+  top: 9%;
+}
+.top-cloud2 {
+  position: absolute;
+  left: 20%;
+  top: 24%;
+}
+.bottom-cloud1 {
+  position: absolute;
+  left: 10%;
+  bottom: 40%;
+}
+.bottom-cloud2 {
+  position: absolute;
+  right: 27%;
+  bottom: 30%;
+}
+.bottom-cloud3 {
+  position: absolute;
+  right: 3%;
+  bottom: 56%;
+}
+.skill-row {
+  width:49%;
+  height:200px;
+  margin:30px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.p1 {
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 2%;
+    margin-bottom: 0;
+    color: #66BFBF;
+}
+.nme {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.575em;
+  color: #66BFBF;
+  margin-top: 20px;
+
+}
+.skillpicmain{
+  width: 25%;
+  border-radius:50%;
+  background-color: #b0efeb;
+}
+.skillpic1{
+  width: 25%;
+  float: left;
+  border-radius:50%;
+  background-color: #b0efeb;
+  margin-right: 30px;
+}
+.skillpic2{
+  width: 25%;
+  float: right;
+  border-radius:50%;
+  background-color: #b0efeb;
+  margin-left: 30px;
+
+}
+.skill-discription{
+  text-align: justify;
+}
+.footer-link {
+  color:#11999E;
+}
+.contact-me a:link, a:visited {
+  background-color: rgba(0,39,26,0.2);
+  border: 3px solid #66BFBF;
+  border-radius: 15px;
+  padding: 12px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width:9%;
+  font-family:verdana;
+  font-size:15px;
+  color: #11999E;
+
+}
+.contact-me a:hover, a:active {
+  background-color: black;
+  color: white;
+}
+.bottom-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 2%;
+  height:100px;
+  margin: 3% auto auto auto;
