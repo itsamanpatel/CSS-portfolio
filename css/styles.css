@@ -44,15 +44,30 @@ hr {
 .pro{
   text-decoration: underline;
 }
-.top-cloud {
+.top-cloud1 {
   position: absolute;
   right: 23%;
   top: 9%;
 }
-.bottom-cloud {
+.top-cloud2 {
   position: absolute;
-  left: 24%;
-  bottom: 52%;
+  left: 20%;
+  top: 24%;
+}
+.bottom-cloud1 {
+  position: absolute;
+  left: 10%;
+  bottom: 40%;
+}
+.bottom-cloud2 {
+  position: absolute;
+  right: 27%;
+  bottom: 30%;
+}
+.bottom-cloud3 {
+  position: absolute;
+  right: 3%;
+  bottom: 56%;
 }
 .skill-row {
   width:49%;
@@ -104,13 +119,14 @@ hr {
 .contact-me a:link, a:visited {
   background-color: rgba(0,39,26,0.2);
   border: 3px solid #66BFBF;
+  border-radius: 15px;
   padding: 12px 23px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  width:7%;
+  width:9%;
   font-family:verdana;
-  font-size:20px;
+  font-size:15px;
   color: #11999E;
 
 }
